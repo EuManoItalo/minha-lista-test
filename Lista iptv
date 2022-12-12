@@ -1,0 +1,20 @@
+#EXTM3U8
+#EXT-X-SESSION-DATA:DATA-ID="com.1_streamer.1.r2"
+#EXTINF:-1 tvg-name="CARTOON NETWORK HD" tvg-logo="http://4f.rs:80/images/699ef3d69981bdc911b445c582401a70.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK HD
+http://172.107.94.243:5004/live/premium/free/8314.ts?token=PT1BT3pFRE4vQW5jbDFXYTExMlBtSlhabDlqTzZZbVptWm1PeGN6TnVFek0yNHlNNTRpTjI4VE0yY0RNek1ETXdBVE55RWpNL1VrVEU5VlZUVmtV
+#EXTINF:-1 tvg-name="Glogo salvador BAHIA SD❤️🗿" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS | ABERTOS",Glogo salvador BAHIA SD❤️🗿
+http://172.107.94.243:9000/live/premium/free/8859.ts
+#EXTINF:-1 tvg-name="Glogo salvador BAHIA HD❤️🗿🍷" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS | ABERTOS",Glogo salvador BAHIA HD❤️🗿🍷
+http://172.107.94.243:5008/live/premium/free/23993.ts?token=PUl6TTVrek0vQW5jbDFXYTExMlBtSlhabDlqTzZZbVptWm1PeGN6TnVFek0yNHlNNTRpTjI4VE0yY0RNekVETzBnRE00Y1ROL1VrVEU5VlZUVmtV
+#EXTINF:-1 tvg-name="Glogo SP full HD️" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS | ABERTOS",Glogo SP full HD️
+http://172.107.94.243:5006/live/premium/free/8385.ts?token=PT1BT3pnVE4vQW5jbDFXYTExMlBtSlhabDlqTzZZbVptWm1PeGN6TnVFek0yNHlNNTRpTjI4VE0yY0RNeklqTjVnRE15VWpOL1VrVEU5VlZUVmtV
+#EXTINF:-1 tvg-name="Record Bahia ❤️" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="CANAIS | ABERTOS",Record Bahia2😛❤️
+http://datany31.office646851.online:80/live/3976225663/745175683/25762.ts?&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NzA2MjQyNTQsIm5iZiI6MTY3MDYyNDI1NCwiZXhwIjoxNjcwNzEwNjU0LCJpc3MiOiIiLCJqdGkiOiIxMTM4OTMwMjcxNjM5M2IzZmUzN2MxNjIuNzc5NjY4NTIiLCJhZ2VudCI6IklQVFZTbWFydGVyc1BsYXllciIsInJlZmVyZXIiOm51bGwsInVzZXJuYW1lIjoiMzk3NjIyNTY2MyIsInBhc3N3b3JkIjoiNzQ1MTc1NjgzIiwiY2xpZW50ZSI6IjE3Ny4xMzYuMzkuNjYifQ.ahNcldzoxgmlEXWn0hF5DlkpS9Xe3F6TX3qEM3Wzcx0&token=ZDZtZFBZRThzZmg1OE1i
+#EXTINF:-1 tvg-name="Record Bahia ❤️" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="CANAIS | ABERTOS",Record Bahia ❤️
+http://172.107.94.243:5004/live/premium/free/8901.ts?token=PT1BTzVBVE0vQW5jbDFXYTExMlBtSlhabDlqTzZZbVptWm1PeGN6TnVFek0yNHlNNTRpTjI4VE0yY0RNekl6TTNVRE54QVRNL1VrVEU5VlZUVmtV
+#EXTINF:-1 tvg-name="SBT SALVADOR BA SD❤️" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="CANAIS | ABERTOS",SBT SALVADOR BA SD❤️
+http://172.107.94.243:5002/live/premium/free/24107.ts?token=PUlETnhBek4vQW5jbDFXYTExMlBtSlhabDlqTzZZbVptWm1PeGN6TnVFek0yNHlNNTRpTjI4VE0yY0RNelF6TXpBek54VVROL1VrVEU5VlZUVmtV
+#EXTINF:-1 tvg-name="Telecine Premium full HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4BfZGI3SMLlGE2NN2sdxjOUu7Ys-HfJqbZg&usqp=CAU" group-title="CANAIS | Telecine",Telecine Premium HD
+http://172.107.94.243:5005/live/premium/free/8494.ts?token=PT1BTzBrRE4vQW5jbDFXYTExMlBtSlhabDlqTzZZbVptWm1PeGN6TnVFek0yNHlNNTRpTjI4VE0yY0RNek1UTnhrRE15TVRPL1VrVEU5VlZUVmtV
+#EXTINF:-1 tvg-name="Telecine Pipoca full HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfv2Ak6mnptf3axIvKXt-XA4tHwJCtojtzuw&usqp=CAU" group-title="CANAIS | Telecine",Telecine Pipoca full HD
+http://172.107.94.243:5006/live/premium/free/8493.ts?token=PT1BTzBrek0vQW5jbDFXYTExMlBtSlhabDlqTzZZbVptWm1PeGN6TnVFek0yNHlNNTRpTjI4VE0yY0RNek1UTnpVak13WURPL1VrVEU5VlZUVmtV
